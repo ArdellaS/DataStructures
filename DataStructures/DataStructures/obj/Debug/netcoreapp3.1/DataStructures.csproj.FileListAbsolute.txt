@@ -9,3 +9,14 @@ C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\DataStructures\DataStruct
 C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
 C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
 C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\DShelton\OneDrive - KNEX\Documents\2020code\DataStructures\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.exe
+C:\Users\DShelton\OneDrive - Knex\Documents\2020code\DataStructures\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.deps.json
+C:\Users\DShelton\OneDrive - Knex\Documents\2020code\DataStructures\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.json
+C:\Users\DShelton\OneDrive - Knex\Documents\2020code\DataStructures\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.dev.json
+C:\Users\DShelton\OneDrive - KNEX\Documents\2020code\DataStructures\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\DShelton\OneDrive - KNEX\Documents\2020code\DataStructures\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\DShelton\OneDrive - KNEX\Documents\2020code\DataStructures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csprojAssemblyReference.cache
+C:\Users\DShelton\OneDrive - KNEX\Documents\2020code\DataStructures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
+C:\Users\DShelton\OneDrive - KNEX\Documents\2020code\DataStructures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
+C:\Users\DShelton\OneDrive - KNEX\Documents\2020code\DataStructures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\DShelton\OneDrive - KNEX\Documents\2020code\DataStructures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb
